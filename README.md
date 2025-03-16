@@ -6,14 +6,14 @@ This repository contains my completed evaluation tasks for the QML-HEP GSoC 2025
 ## Completed Tasks
 I have completed the following tasks from the QML-HEP evaluation list:
 
-- **Task I: Quantum Computing** – Implement a simple quantum operation with Cirq or Pennylane
+- **Task I: Quantum Computing** – First question- Implement a simple quantum operation with Cirq or Pennylane
 a) With 5 qubits 
 b) Apply Hadamard operation on every qubit 
 c) Apply CNOT operation on (0, 1), (1,2), (2,3), (3,4) 
 d) SWAP (0, 4) 
 e) Rotate X with pi/2 on any qubit 
-f) Plot the circuit
-Implement a second circuit with a framework of your choice:
+f) Plot the circuit.
+Second question-Implement a second circuit with a framework of your choice:
 Apply a Hadmard gate to the first qubit
 rotate the second qubit by pi/3 around X
 Apply Hadamard gate to the third and fourth qubit
