@@ -1,7 +1,7 @@
 # QML-HEP GSoC 2025 Tasks
 
 ## Overview
-This repository contains my completed evaluation tasks for the QML-HEP GSoC 2025 selection process. The tasks are designed to assess my proficiency in quantum computing, classical and quantum machine learning, and high-energy physics applications. Below is a summary of the completed tasks.
+This repository contains my completed evaluation tasks for the QML-HEP GSoC 2025 selection process.Below is a summary of the completed tasks.
 
 ## Completed Tasks
 I have completed the following tasks from the QML-HEP evaluation list:
