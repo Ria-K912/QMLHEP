@@ -27,6 +27,6 @@ Perform a swap test between the states of the first and second qubit |q1 q2> and
 - **Task VIII: Quantum Vision Transformer** – Built a classical Vision Transformer (ViT) and proposed a quantum version with a detailed sketch.
 - **Task IX: Kolmogorov-Arnold Network (KAN)** – Implemented a classical KAN and explored its quantum extension, providing an architectural design.
 
-## Submission Instructions
+## Submission 
 The completed tasks are available in this public GitHub repository. I have ensured that all necessary code, explanations, and results are properly documented. If required, I can provide additional details regarding the implementation of specific tasks.
 
